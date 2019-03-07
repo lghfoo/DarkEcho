@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/rac7.png</file>
+        <file>images/qt.png</file>
+        <file>maps/ChoiceScene.m</file>
+        <file>maps/Blind.m</file>
+        <file>maps/Breakout.m</file>
+        <file>maps/Death.m</file>
+        <file>maps/Demo.m</file>
+        <file>maps/Distract.m</file>
+        <file>maps/Fear.m</file>
+        <file>maps/Hunt.m</file>
+        <file>maps/Jarless.m</file>
+        <file>maps/Lorn.m</file>
+        <file>maps/Pull.m</file>
+        <file>maps/Push.m</file>
+        <file>maps/Serenity.m</file>
+        <file>maps/Slink.m</file>
+        <file>maps/Splash.m</file>
+        <file>maps/Stunt.m</file>
+        <file>maps/Taunt.m</file>
+        <file>maps/Violate.m</file>
+        <file>images/pause.png</file>
+    </qresource>
+</RCC>
