@@ -38,8 +38,7 @@ SOURCES += \
     waves/castwave.cpp \
     waves/customwave.cpp \
     waves/normalwave.cpp \
-    waves/reflectwave.cpp \
-    waves/soundwave.cpp
+    waves/reflectwave.cpp
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
@@ -73,5 +72,4 @@ HEADERS += \
     waves/castwave.h \
     waves/customwave.h \
     waves/normalwave.h \
-    waves/reflectwave.h \
-    waves/soundwave.h
+    waves/reflectwave.h

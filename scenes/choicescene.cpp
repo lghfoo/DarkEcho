@@ -1,6 +1,5 @@
 #include"choicescene.h"
 #include"../game.h"
-#include"../waves/soundwave.h"
 ChoiceScene::ChoiceScene(const QRect& rect, QGraphicsView* view)
     :BaseScene(rect)
 {
